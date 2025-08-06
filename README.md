@@ -53,9 +53,5 @@ Feel free to contribute by:
 - Improving explanations
 - Fixing bugs or typos
 
-## 📄 License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
-
 ---
 
