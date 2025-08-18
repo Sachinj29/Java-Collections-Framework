@@ -12,7 +12,6 @@
 // The previous element at the specified index will be overwritten by the new element.
 
 
-
 import java.util.*;  
 public class ArrayListSet{  
  public static void main(String args[]){  
