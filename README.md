@@ -46,12 +46,6 @@ This repository is intended for:
 - Academic reference
 - Practice and experimentation
 
-## 📬 Contributions
-
-Feel free to contribute by:
-- Adding more examples
-- Improving explanations
-- Fixing bugs or typos
 
 ---
 
