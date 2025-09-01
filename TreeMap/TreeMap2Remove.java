@@ -1,6 +1,5 @@
 import java.util.*;  
 
-
 public class TreeMap2Remove {  
    public static void main(String args[]) {  
     TreeMap<Integer,String> map=new TreeMap<Integer,String>();    
