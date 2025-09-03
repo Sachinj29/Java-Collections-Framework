@@ -1,4 +1,5 @@
 import java.util.*;  
+
 class TreeMap1{  
  public static void main(String args[]){  
    TreeMap<Integer,String> map=new TreeMap<Integer,String>();    
