@@ -1,6 +1,4 @@
 import java.util.*;  
-
-// Iterating ArrayList using Iterator
 // Iterating through an ArrayList using an Iterator in Java is a common operation that allows you to traverse the list's elements sequentially. Iterators provide a safe and efficient way to access elements in a collection, especially when you want to perform operations like removing elements during iteration. Let's see an example of traversing ArrayList elements using the Iterator interface.
 
 public class ArrayListByIterator{  
