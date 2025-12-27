@@ -11,7 +11,7 @@ public class ArrayListByIterator{
   //Traversing list through Iterator  
   Iterator itr=list.iterator();//getting the Iterator  
   while(itr.hasNext()){//check if iterator has the elements  
-   System.out.println(itr.next());//printing the element and move to next  
+   System.out.println(itr.next());//printing the element and move to next
   }  
  }  
 }  
