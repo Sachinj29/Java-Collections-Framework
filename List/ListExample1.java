@@ -14,5 +14,5 @@ public static void main(String args[]){
  for(String fruit:list)  
   System.out.println(fruit);  
   
-}  
+}
 }  
