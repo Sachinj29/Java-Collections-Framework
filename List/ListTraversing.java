@@ -20,4 +20,4 @@ List<String> al=new ArrayList<String>();
         System.out.println("index:"+itr.previousIndex()+" value:"+itr.previous());    
         }    
 }  
-} 
+}
